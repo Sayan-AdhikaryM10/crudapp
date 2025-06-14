@@ -11,7 +11,7 @@
   <li>Bootstrap: The latest version of the Bootstrap framework.</li>
 </ul>
 <h2>Demo</h2>
-<img src="https://media.licdn.com/dms/image/v2/D5622AQHFWQ9Gr3Opcw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726695013118?e=1729728000&v=beta&t=jeu4VyeHFLhihbT5QtNa1sEylXQEh2JISTTKJfo3jFk" alt="Demo of crud app">
+<img src="crudapp/Demo1.png" alt="Demo of crud app">
 <h2>Installation</h2>
 <ol type="1">
   <li>Clone the Repository: https://github.com/leoGoD10/crudapp.git</li>
